@@ -1,0 +1,69 @@
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csprojAssemblyReference.cache
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.cache
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.Cache
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+G:\Semester2\Programing ConceptII-Prog1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csprojAssemblyReference.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csprojAssemblyReference.cache
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.cache
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+\\FSSTU02D\Stu5\Home\Mtooranisama5070\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csprojAssemblyReference.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csprojAssemblyReference.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+C:\Users\Majid\Desktop\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe.config
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.exe
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\bin\Debug\inClass2-Alarm.pdb
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csprojAssemblyReference.cache
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Form1.resources
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2_Alarm.Properties.Resources.resources
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.GenerateResource.cache
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.csproj.CoreCompileInputs.cache
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.exe
+H:\SEMESTER2\CONCEPT-II-PROG1815\InClass\inClass2\inClass2-Alarm\inClass2-Alarm\obj\Debug\inClass2-Alarm.pdb
